@@ -1,7 +1,7 @@
-Project
+# Project
 This is a beginner Solidity Smart Contract to demonstrate the basics of Solidity.
 
-Description
+# Description
 The contract contains 3 state variables including the Amazon, Flipkart and TotalParcel.
 
 It has a mapping (Adddress => uint) named balances mapping Addresses to their respective balance.
@@ -65,12 +65,12 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the Deposit or Withdraw function. Click on the "google" contract in the left-hand sidebar, and then click on the "Deposit" function.
 
-Help
+# Help
 Make sure to have the compiler option set to 0.8.18 to avoid version depenedency errors.
 
 pragma solidity ^0.8.18
-Authors
+# Authors
 Ashish Kumar
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details
